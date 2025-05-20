@@ -11,5 +11,5 @@
     "idle-cpu": 100,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
     "kill-targets": "",
-    "stealth-fullscreen": true
+    "stealth-fullscreen": false
 }
