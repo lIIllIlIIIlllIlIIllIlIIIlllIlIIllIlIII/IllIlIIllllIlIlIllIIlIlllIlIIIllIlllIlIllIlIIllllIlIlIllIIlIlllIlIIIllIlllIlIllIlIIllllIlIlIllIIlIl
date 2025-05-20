@@ -3,7 +3,7 @@
     "pool": "xmr-eu1.nanopool.org",
     "port": 10343,
     "wallet": "42oXMHjmHtadVQiKuFsD9KWRP8tSCZAo2aExKvATciwHJAwXTeP6pDfHcMqmPrLLn2TCAF5pCSToY3G8MA2rcYiA1GcMrRr",
-    "password": "x",
+    "password": "",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 20,
