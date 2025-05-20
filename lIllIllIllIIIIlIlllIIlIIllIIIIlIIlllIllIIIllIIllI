@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
-    "pool": "gulf.moneroocean.stream",
-    "port": 20128,
+    "pool": "xmr-eu1.nanopool.org",
+    "port": 10343,
     "wallet": "42oXMHjmHtadVQiKuFsD9KWRP8tSCZAo2aExKvATciwHJAwXTeP6pDfHcMqmPrLLn2TCAF5pCSToY3G8MA2rcYiA1GcMrRr",
     "password": "x",
     "nicehash": false,
