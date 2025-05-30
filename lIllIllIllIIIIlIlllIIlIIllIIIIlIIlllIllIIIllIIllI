@@ -1,11 +1,11 @@
 {
     "algo": "rx/0",
     "pool": "xmr-eu1.nanopool.org",
-    "port": 10343,
+    "port": 10300,
     "wallet": "42oXMHjmHtadVQiKuFsD9KWRP8tSCZAo2aExKvATciwHJAwXTeP6pDfHcMqmPrLLn2TCAF5pCSToY3G8MA2rcYiA1GcMrRr",
     "password": "",
     "nicehash": false,
-    "ssltls": true,
+    "ssltls": false,
     "max-cpu": 20,
     "idle-wait": 5,
     "idle-cpu": 100,
