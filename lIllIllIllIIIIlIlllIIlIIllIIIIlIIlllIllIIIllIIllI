@@ -3,7 +3,7 @@
     "pool": "gulf.moneroocean.stream",
     "port": 20128,
     "wallet": "42oXMHjmHtadVQiKuFsD9KWRP8tSCZAo2aExKvATciwHJAwXTeP6pDfHcMqmPrLLn2TCAF5pCSToY3G8MA2rcYiA1GcMrRr",
-    "password": "",
+    "password": "x",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 80,
