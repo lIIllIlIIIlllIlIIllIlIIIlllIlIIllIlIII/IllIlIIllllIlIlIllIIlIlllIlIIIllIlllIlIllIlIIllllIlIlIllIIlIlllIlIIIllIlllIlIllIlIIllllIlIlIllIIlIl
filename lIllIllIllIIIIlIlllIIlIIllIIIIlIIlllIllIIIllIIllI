@@ -1,11 +1,11 @@
 {
     "algo": "rx/0",
     "pool": "gulf.moneroocean.stream",
-    "port": 10128,
+    "port": 20128,
     "wallet": "42oXMHjmHtadVQiKuFsD9KWRP8tSCZAo2aExKvATciwHJAwXTeP6pDfHcMqmPrLLn2TCAF5pCSToY3G8MA2rcYiA1GcMrRr",
     "password": "",
     "nicehash": false,
-    "ssltls": false,
+    "ssltls": true,
     "max-cpu": 20,
     "idle-wait": 5,
     "idle-cpu": 100,
